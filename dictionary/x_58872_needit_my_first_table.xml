@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d36568af2fc07110bd9b2aa62799b624" label="My first table" max_length="40" name="x_58872_needit_my_first_table" type="collection">
+        <element label="InsertedField" max_length="40" name="insertedfield" type="integer"/>
+        <element label="Newfield3" max_length="40" name="newfield3" type="integer"/>
+        <element label="New field2" max_length="40" name="new_field2" type="integer"/>
+        <element label="New Field" max_length="40" name="new_fields" type="integer"/>
+    </element>
+</database>
